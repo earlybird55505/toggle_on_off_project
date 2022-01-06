@@ -126,7 +126,8 @@ h1{
 }
 
 .container.active{
-    background: linear-gradient(120deg, rgb(0, 255, 255), 15%, rgb(253, 175, 188));
+    /* background: linear-gradient(120deg, rgb(0, 255, 255), 15%, rgb(253, 175, 188)); */
+    background: linear-gradient(120deg, rgb(102, 255, 0), 15%, rgb(238, 24, 60));
 }
 
 .container.active h2{
